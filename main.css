@@ -1,0 +1,41 @@
+body {
+    background-color: pink;
+    font-family: sans-serif;
+    padding: 2em;
+}
+
+h1 {
+    color: #111;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+form {
+    border: 1px solid #000000;
+    padding: 1em;
+    background-color: pink;
+}
+
+label {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-right: 0.5em;
+}
+
+input {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    border: 1px solid #ddd;
+}
+
+input[type="submit"] {
+    background-color: rgb(17, 19, 18);
+    color: #fff;
+    border: none;
+    font-size: 1.1em;
+    font-weight: bold;
+    padding: 0.5em;
+    margin-top: 1em;
+}
